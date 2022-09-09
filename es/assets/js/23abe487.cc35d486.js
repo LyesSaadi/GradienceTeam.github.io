@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkadw_customizer_team_github_io=self.webpackChunkadw_customizer_team_github_io||[]).push([[627],{6074:(e,t,c)=>{c.r(t),c.d(t,{default:()=>l});var n=c(7294),u=c(2263),a=c(2566),i=c(272);function l(){const{siteConfig:e}=(0,u.Z)();return n.createElement(a.Z,null,n.createElement("h2",null,"Site config"),n.createElement(i.Z,{src:e,collapseDepth:3}))}}}]);
