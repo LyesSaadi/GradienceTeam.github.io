@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkadw_customizer_team_github_io=self.webpackChunkadw_customizer_team_github_io||[]).push([[460],{6248:e=>{e.exports=JSON.parse('{"title":"Development","slug":"/category/development","permalink":"/cs/docs/category/development","navigation":{"next":{"title":"Proces vyd\xe1n\xed","permalink":"/cs/docs/dev/release"}}}')}}]);
