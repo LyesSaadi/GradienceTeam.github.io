@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkadw_customizer_team_github_io=self.webpackChunkadw_customizer_team_github_io||[]).push([[359],{2750:e=>{e.exports=JSON.parse('{"title":"Development","slug":"/category/development","permalink":"/zh/docs/category/development","navigation":{"next":{"title":"\u53d1\u5e03\u8fc7\u7a0b","permalink":"/zh/docs/dev/release"}}}')}}]);
